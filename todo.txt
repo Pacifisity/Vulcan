@@ -1,0 +1,36 @@
+Define the purpose and scope of the bot:
+
+The purpose is to allow players to bet on tournament matches and win rewards based on their correct predictions.
+The scope includes determining the maximum bet per player, the gallon cap, and the method of payment.
+-----------------------------------------------------------------------------------------
+Determine the technical requirements of the bot:
+
+The bot will be designed as a chatbot or a web-based interface.
+It will need to be able to handle multiple user requests at the same time.
+It will need to be integrated with a payment system for accepting bets and distributing rewards.
+-----------------------------------------------------------------------------------------
+Create a betting system:
+
+The betting system should allow players to make their bets and choose their preferred matches.
+These preferred matches should be in a list of multiple to choose from. (max 5)
+The system should also allow staff members to verify bets and confirm the amount of gallons bet by each player.
+-----------------------------------------------------------------------------------------
+Develop a reward system:
+
+The reward system should be able to calculate the winnings of each player based on the amount they bet and the opposing side.
+The winnings should be credited to the player's account or delivered through an appropriate payment method.
+the user can then submit a claim to have their galleons given to them.
+-----------------------------------------------------------------------------------------
+Design a user interface:
+
+The user interface should be simple and intuitive.
+It should allow players to view their betting history, their current bets, and their winnings.
+-----------------------------------------------------------------------------------------
+Test the bot:
+
+The bot should be tested thoroughly to ensure that it functions as expected.
+All features and functionalities should be tested to ensure that they work correctly.
+-----------------------------------------------------------------------------------------
+Launch the bot:
+
+The bot should be made available to players to use.

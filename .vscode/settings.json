@@ -1,0 +1,24 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        ".vscode": true,
+        "Factory/Betting/__pycache__": true,
+        "Factory/__pycache__": true,
+        "Cogs/__pycache__": true,
+        "Factory/Profile/__pycache__": true,
+        "Factory/Settings/__pycache__": true
+    },
+    "hide-files.files": [
+        ".vscode",
+        "Factory/Betting/__pycache__",
+        "Factory/__pycache__",
+        "Cogs/__pycache__",
+        "Factory/Profile/__pycache__",
+        "Factory/Settings/__pycache__"
+    ]
+}
